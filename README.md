@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 My name is Kaleb Todjo and I am currently a Software Engineer at American Express! I am extremely intersted in all things Software Engineering and Cloud Computing!
 
